@@ -8,3 +8,4 @@ seleniumbase
 webdriver-manager
 tiktoken
 faiss-cpu
+scikit-learn
