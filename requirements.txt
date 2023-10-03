@@ -4,3 +4,5 @@ openai
 pandas
 selenium
 unstructured
+seleniumbase
+webdriver-manager
