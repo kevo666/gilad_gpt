@@ -1,8 +1,3 @@
-import os
-
-# Set an environment variable
-os.environ['OPENAI_API_KEY'] = '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'
-
 urls = [
     "https://www.pollenstreetgroup.com/latest-news/in-the-trenches-of-digital-transformation","https://www.pollenstreetgroup.com/latest-news/digital-transformation-in-private-equity-beyond-the-trenches/","https://www.pollenstreetgroup.com/latest-news/building-a-digital-lending-system-methods-learnings-and-insights/","https://www.pollenstreetgroup.com/latest-news/building-a-digital-lending-system-from-origination-to-monitoring/","https://www.elsewhen.com/blog/finding-strategic-clarity-in-the-new-financial-services-reality/","https://medium.com/@gilad.amir/dispelling-the-small-business-cashflow-myth-66f76a6f734","https://www.linkedin.com/pulse/security-tokens-back-future-4-gilad-g-amir/","https://www.pollenstreetgroup.com/latest-news/the-human-side-of-digital-transformation-building-a-culture-of-digital-success/"
 ]
