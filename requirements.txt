@@ -7,3 +7,4 @@ unstructured
 seleniumbase
 webdriver-manager
 tiktoken
+faiss-cpu
