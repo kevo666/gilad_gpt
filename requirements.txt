@@ -2,3 +2,5 @@ langchain
 streamlit
 openai
 pandas
+selenium
+unstructured
