@@ -6,3 +6,4 @@ selenium
 unstructured
 seleniumbase
 webdriver-manager
+tiktoken
